@@ -1,0 +1,6 @@
+name: KillRewardPro
+version: '${project.version}'
+main: killrewardpro.killrewardpro.KillRewardPro
+api-version: 1.13
+authors: [ intelliDev ]
+description: A simple kill reward system
